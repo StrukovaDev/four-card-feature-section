@@ -1,0 +1,120 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3E52A3;
+}
+
+
+
+body {
+color: #4C4E61;
+font-family: 'Poppins', sans-serif;
+margin: 0;
+
+}
+
+h1 {
+  color: #4C4E61;
+  margin: auto;
+  text-align: center;
+  width: 50%;
+}
+
+h4 {
+  margin-left: 1.5625rem;
+  font-size: larger;
+}
+
+p {
+  margin-left: 1.5625rem;
+  color: #A3A5AE;
+}
+
+.calculator {
+  border: solid #FAFAFA;
+  border-radius: 0.5rem;
+  border-top: 5px solid #549EF2;
+  box-shadow: 10px 10px 20px #DCDCDC;
+  display: inline-block;
+  position: absolute;
+  right: 10%;
+  top: 9.375rem;
+  width: 25%;
+
+}
+
+.footer {
+  margin: 2rem auto;
+  position: relative;
+  top: 700px;
+}
+
+.head {
+  font-weight: 200;
+  margin: 60px auto 0 auto;
+}
+
+.head_discription {
+  color: 	#A3A5AE;
+  margin: 20px auto 0 auto;
+  text-align: center;
+  width: 50%;
+}
+
+.img {
+  margin: 5% 5% 5% 75%;
+}
+
+.karma {
+  border: solid #FAFAFA;
+  border-top: 5px solid #FCAF4A;
+  border-radius: 0.5rem;
+  box-shadow: 10px 10px 20px #DCDCDC;
+  display: inline-block;
+  position: absolute;
+  left: 37.5%;
+  top: 18.75rem;
+  width: 25%;
+
+}
+
+.main {
+  margin: 50px auto;
+  position: relative;
+}
+
+.main-p {
+  font-size: smaller;
+}
+
+.second_head {
+  font-weight: 600;
+}
+
+.supervisor {
+  border: solid #FAFAFA;
+  border-radius: 0.5rem;
+  border-top: 5px solid #45D3D3;
+  box-shadow: 10px 10px 20px #DCDCDC;
+  display: inline-block;
+  position: absolute;
+  left: 10%;
+  top: 9.375rem;
+  width: 25%;
+
+}
+
+.team_builder {
+  margin: auto;
+  border: solid #FAFAFA;
+  border-radius: 0.5rem;
+  border-top: 5px solid #EA5353;
+  box-shadow: 10px 10px 20px #DCDCDC;
+  display: inline-block;
+  position: absolute;
+  left: 37.5%;
+  width: 25%;
+}
